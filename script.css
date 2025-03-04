@@ -13,3 +13,7 @@ body{
 background-color: rgb(206, 160, 21);
   color: blueviolet;
 }
+
+.header{
+  background-color: violet;
+}
