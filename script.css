@@ -16,4 +16,14 @@ background-color: rgb(206, 160, 21);
 
 .header{
   background-color: violet;
+  display: flex;
+  justify-content: center;
+
+
 }
+
+div{
+
+  background-color: green;
+}
+
