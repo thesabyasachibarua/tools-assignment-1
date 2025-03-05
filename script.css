@@ -21,9 +21,14 @@ background-color: rgb(206, 160, 21);
 
 
 }
-
-div{
-
-  background-color: green;
+div > p{
+  background-color: goldenrod;
 }
 
+div p{
+  background-color: purple;
+}
+
+*{
+  background-color: orange;
+}
