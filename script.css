@@ -30,5 +30,17 @@ div p{
 }
 
 *{
-  background-color: orange;
+  margin: 10px;
 }
+
+.margin-pad{
+
+  background-color: blue;
+  margin: 50px;
+  padding: 20px;
+  border: 20px solid red;
+
+}
+
+
+ 
