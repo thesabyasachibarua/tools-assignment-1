@@ -29,9 +29,6 @@ div p{
   background-color: purple;
 }
 
-*{
-  margin: 10px;
-}
 
 .margin-pad{
 
@@ -47,6 +44,16 @@ div p{
   text-decoration: underline;
   font-style: italic;
 
+  line-height: 4;
+
+}
+.align{
+
+  text-align: center;
+  border: 3px solid red;
+  background-color: white;
+  margin: 0px;
+  padding: 0px;
 }
 
 
